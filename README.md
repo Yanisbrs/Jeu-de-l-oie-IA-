@@ -46,3 +46,8 @@ Le but est d’atteindre la **case 63** pour remporter la partie.
 Aucune installation de dépendances n’est nécessaire. Le jeu utilise uniquement HTML, CSS et JavaScript natif.
 
 ### Méthode 1 — Télécharger le
+
+
+Prompt:
+Bonjour, je dois faire un jeu de l'oie que je dois mettre sur github. Il faut que tu me le crée en local ,  en . html pour que je puisse le lancer sur un navigateur web sur linux. Utilise l'image jointe en tant que plateau de jeu en le modifiant pour qu'il soit plus sobre,je veux que les couleurs soient dans majoritairement bleue avec un fond blanc ,et des graphismes plus style 'cartoon' avec pas exemple l'oie en piece jointe. Ensuite, pour le game play, des qu'on arrive sur le jeu, on a le choix du nombres et du nom pour chaque d'equipes, entre 2 et 10, ainsi qu'un bouton pour lancer le jeu . Chaque equipe possede un pion d'une couleur différente. Pour que chaque equipe joue, il faut que l'on lance deux dés de 6 et que l'on avance des cases correspondantes. Crées differentes cases spéciales comme l'hotel qui oblige le joueur à passer un tour, une case pour relancer les dés, invente en 3 autres et repartis les equitablement a travers le plateau. Je veux que si l'on passe la souris sur une case spéciales, une fenetre apparait qui explique le fonctionnement de la case de amniere brève. lorsqu'un joueur finis toutes les cases du plateau, une fenetre apparait et félicite le joueur qui a gagne. En dessous rajoute un bouton qui permet de relancer une nouvelle partie ou non.
+
